@@ -1,0 +1,355 @@
+{
+  "browser": {
+    "externalBrowser":{
+      "downloadBaseURL":"https://storage.googleapis.com/chromium-browser-snapshots",
+      "supportedPlatforms": ["win", "linux"]
+
+    }
+  },
+  "skills": {
+    "pathSchema": {
+      "startWith": "skill",
+      "separator": "-",
+      "allowdMultiple": false
+    },
+    "apiEndpoint": "https://ponisha.ir/search-get-skills-search?categoryId=0&&q=",
+    "feilds": [
+      {
+        "id": "html",
+        "text": "HTML"
+      },
+      {
+        "id": "psd-به-html",
+        "text": "PSD به HTML"
+      },
+      {
+        "id": "jquery",
+        "text": "جی کوئری (jQuery)"
+      },
+      {
+        "id": "mysql",
+        "text": "مای اسکیوال (MySQL)"
+      },
+      {
+        "id": "nosql-couch-and-mongo",
+        "text": "NoSQL Couch and Mongo"
+      },
+      {
+        "id": "sql",
+        "text": "اس کیو ال (SQL)"
+      },
+      {
+        "id": "sql-server",
+        "text": "SQL Server"
+      },
+      {
+        "id": "sqlite",
+        "text": "SQLite"
+      },
+      {
+        "id": "microsoft-sql-server",
+        "text": "Microsoft SQL Server"
+      },
+      {
+        "id": "کوارک-اکسپرس",
+        "text": "کوارک اکسپرس"
+      },
+      {
+        "id": "amazon-web-services",
+        "text": "Amazon Web Services"
+      },
+      {
+        "id": "embedded-software",
+        "text": "Embedded Software"
+      },
+      {
+        "id": "forum-software",
+        "text": "Forum Software"
+      },
+      {
+        "id": "labview",
+        "text": "LabVIEW"
+      },
+      {
+        "id": "شبکه-اجتماعی",
+        "text": "شبکه اجتماعی"
+      },
+      {
+        "id": "software-architecture",
+        "text": "Software Architecture"
+      },
+      {
+        "id": "تست-نرم-افزار",
+        "text": "تست نرم افزار"
+      },
+      {
+        "id": "twitter",
+        "text": "Twitter"
+      },
+      {
+        "id": "virtual-worlds",
+        "text": "Virtual Worlds"
+      },
+      {
+        "id": "web-scraping",
+        "text": "Web Scraping"
+      },
+      {
+        "id": "word",
+        "text": "ورد (Word)"
+      },
+      {
+        "id": "google-ads",
+        "text": "گوگل ادز (Google Ads)"
+      },
+      {
+        "id": "c-programming",
+        "text": "برنامه نویسی سی (C)"
+      },
+      {
+        "id": "chrome-os",
+        "text": "Chrome OS"
+      },
+      {
+        "id": "cisco",
+        "text": "Cisco"
+      },
+      {
+        "id": "computer-security",
+        "text": "Computer Security"
+      },
+      {
+        "id": "drupal",
+        "text": "دروپال (Drupal)"
+      },
+      {
+        "id": "elearning",
+        "text": "eLearning"
+      },
+      {
+        "id": "electronic-forms",
+        "text": "Electronic Forms"
+      },
+      {
+        "id": "facebook",
+        "text": "Facebook"
+      },
+      {
+        "id": "forum-software",
+        "text": "Forum Software"
+      },
+      {
+        "id": "google-analytics",
+        "text": "Google Analytics"
+      },
+      {
+        "id": "وردپرس",
+        "text": "وردپرس (WordPress)"
+      },
+      {
+        "id": "word",
+        "text": "ورد (Word)"
+      },
+      {
+        "id": "مهندسی-هوانوردی",
+        "text": "مهندسی هوانوردی"
+      },
+      {
+        "id": "google-ads",
+        "text": "گوگل ادز (Google Ads)"
+      },
+      {
+        "id": "طراحی-بیلبورد",
+        "text": "طراحی بیلبورد"
+      },
+      {
+        "id": "google-analytics",
+        "text": "Google Analytics"
+      },
+      {
+        "id": "css",
+        "text": "سی اس اس (CSS)"
+      },
+      {
+        "id": "less-sass-scss",
+        "text": "LESS-Sass-SCSS"
+      },
+      {
+        "id": "whmcs",
+        "text": "WHMCS"
+      },
+      {
+        "id": "elasticsearch",
+        "text": "Elasticsearch"
+      },
+      {
+        "id": "microsoft-dynamics-crm",
+        "text": "Microsoft Dynamics CRM"
+      },
+      {
+        "id": "گرافیک-رایانهای",
+        "text": "گرافیک رایانه‌ای"
+      },
+      {
+        "id": "asp.net",
+        "text": "ASP.Net"
+      },
+      {
+        "id": "active-directory",
+        "text": "Active Directory"
+      },
+      {
+        "id": "ajax",
+        "text": "آژاکس (ای جکس - Ajax)"
+      },
+      {
+        "id": "apache",
+        "text": "آپاچی (Apache)"
+      },
+      {
+        "id": "asterisk-pbx",
+        "text": "Asterisk PBX"
+      },
+      {
+        "id": "azure",
+        "text": "Azure"
+      },
+      {
+        "id": "c-programming",
+        "text": "برنامه نویسی سی (C)"
+      },
+      {
+        "id": "c-sharp-programming",
+        "text": "سی شارپ (C#)"
+      },
+      {
+        "id": "سی-پلاس-پلاس-c-plus-plus",
+        "text": "برنامه نویسی سی پلاس پلاس (C++)"
+      },
+      {
+        "id": "cakephp",
+        "text": "CakePHP"
+      },
+      {
+        "id": "labview",
+        "text": "LabVIEW"
+      },
+      {
+        "id": "usability-testing",
+        "text": "Usability Testing"
+      },
+      {
+        "id": "matlab",
+        "text": "متلب (Matlab)"
+      },
+      {
+        "id": "database-administration",
+        "text": "Database Administration"
+      },
+      {
+        "id": "database-development",
+        "text": "Database Development"
+      },
+      {
+        "id": "database-programming",
+        "text": "Database Programming"
+      }
+    ]
+  },
+  "filters": {
+    "pathSchema": {
+      "startWith": "sort",
+      "separator": "-",
+      "allowdMultiple": false
+    },
+    "feilds": [
+      {
+        "id": "sort-newest",
+        "text": "جدیدترین"
+      },
+      {
+        "id": "sort-oldest",
+        "text": "قدیمی ترین"
+      },
+      {
+        "id": "sort-amountDESC",
+        "text": "بالاترین مبلغ"
+      },
+      {
+        "id": "sort-amountASC",
+        "text": "پایین ترین مبلغ"
+      },
+      {
+        "id": "sort-timeDESC",
+        "text": "بیشترین زمان باقیمانده"
+      },
+      {
+        "id": "sort-timeASC",
+        "text": "کمترین زمان باقیمانده"
+      },
+      {
+        "id": "sort-bidDESC",
+        "text": "بیشترین تعداد پیشنهاد"
+      },
+      {
+        "id": "sort-bidASC",
+        "text": "کمترین تعداد پیشنهاد"
+      }
+    ]
+  },
+  "priceRange": {
+    "pathSchema": {
+      "separator": "-",
+      "allowdMultiple": false,
+      "valueType": "number"
+    },
+    "feilds": [
+      {
+        "id": "minAmount",
+        "text": "حد اقل مبلغ"
+      },
+      {
+        "id": "maxAmount",
+        "text": "حد اکثر مبلغ"
+      }
+    ]
+  },
+  "projectTypes": {
+    "pathSchema": {
+      "startWith": "type",
+      "separator": "-",
+      "allowdMultiple": true
+    },
+    "feilds": [
+      {
+        "id": "featured",
+        "text": "برجسته"
+      },
+      {
+        "id": "urgent",
+        "text": "فوری"
+      },
+      {
+        "id": "fulltime",
+        "text": "تمام وقت"
+      }
+    ]
+  },
+  "status": {
+    "pathSchema": {
+      "startWith": "status",
+      "separator": "-",
+      "allowdMultiple": false
+    },
+    "feilds": [
+      {
+        "id": "open",
+        "text": "باز"
+      },
+      {
+        "id": "finished",
+        "text": "انجام شده"
+      }
+    ]
+  }
+}
